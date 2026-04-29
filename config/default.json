@@ -1,0 +1,26 @@
+{
+    "appName": "Kaia Mart Vendor Customers - Addresses",
+    "license": "Copyright (C) Skill Works IT - All Rights Reserved. Unauthorized copying of this file, via any medium is strictly prohibited. Proprietary and confidential. Written by Skill Works IT <contact@skillworksit.com>, Jan 2023",
+    "mySalt": "86cf75841318f5137097f2157d9a9ea5",
+    "mySaltLen": 32,
+    "myCity": "Hyderabad",
+    "myState": "Telangana",
+    "myCountry": "India",
+
+    "logName": "KMVCDAdrsLogger",
+    "logFilesPath": "logs/kmvcdadrs.api.log",
+    "logDtPattern": "YYMMDD",
+    "logFilesLevel": "debug",
+
+    "mobSessionExpireType": "days",
+    "mobSessionExpire": 90,
+    "webSessionExpireType": "days",
+    "webSessionExpire": 3,
+    "otpSessionExpireType": "minutes",
+    "otpSessionExpire": 10,
+
+    "pgcPercent": 3,
+
+    "collCustsUsrsAdrs": "uscd_usrs_addrs",
+    "collCustsUsrsAdrsClsd": "uscd_usrs_addrs_clsd"
+}
